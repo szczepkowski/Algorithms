@@ -11,7 +11,7 @@ I've learned here one of Agile methodology which is : Test-Driven Delevopment.
 
 Every Class is made in same instructions :
 
-1. Make JUNit test. Test all functionality that your Class should have. Test all method's which in fact doesn't exist's.
+1. Make JUnit test. Test all functionality that your Class should have. Test all method's which in fact doesn't exist's.
 2. Make desired Class or Package.
 3. Test until your Class will pass all JUnit test's.
 
