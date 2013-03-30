@@ -1,4 +1,3 @@
-
 algorithms-sem2
 ===============
 
@@ -34,5 +33,3 @@ Call are putted to BlockingQueue which have some maximum size. When Queue is ful
 At the end of Queue there are 3 Constultants runned in multithread. Every Call has some small random time remaining. If Consultant realized Call he gets another.
 
 Application have some time remaining - it must end one day.
-
->>>>>>> bb1689f0e9a9d8aed9ecbba4f86152b06582fcbb
