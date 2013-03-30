@@ -1,4 +1,4 @@
-algorithms-sem2
+Algorithms
 ===============
 
 Harris,Ross - Beginning Algorithms 
