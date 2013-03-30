@@ -20,16 +20,3 @@ Every Class is made in same instructions :
 2. Make desired Class or Package.
 3. Test until your Class will pass all JUnit test's.
 
-
-One of more interesting subProject ? Lesson3.CallCenter
-
-This subProject use one of Design Patterns called : Factory.
-
-It's show functionality of BlockingQueue in CallCenter.
-There is Factory Class called CallGenerator which generates Call objects.
-
-Call are putted to BlockingQueue which have some maximum size. When Queue is full there is no exception but Queue wait until some object will be dequeued.
-
-At the end of Queue there are 3 Constultants runned in multithread. Every Call has some small random time remaining. If Consultant realized Call he gets another.
-
-Application have some time remaining - it must end one day.
